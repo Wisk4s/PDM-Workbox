@@ -1,0 +1,23 @@
+{
+    "name": "Meu quarto app progressivo",
+    "short_name": "Quarta PWA",
+    "icons": [
+        {
+            "src": "images/b.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/a.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "lang": "pt-BR",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white"
+}
